@@ -1,7 +1,14 @@
 {
   "name": "chli-heller-client",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scalable-development/chli-heller-client.git"
+  },
+  "author": {
+    "name": "Scalable Rahel Lüthy"
+  },
+  "license": "Apache-2.0",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",

@@ -1,0 +1,15 @@
+= chli-heller-client
+
+== Local Development
+
+```
+npm install
+npm run build
+npm run start
+```
+
+== Credits
+
+Based on https://github.com/wmonk/create-react-app[create-react-app]
+
+&copy; Rahel Lüthy 2018 – Apache License 2.0
